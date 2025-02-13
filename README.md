@@ -10,11 +10,11 @@
 
 📫 **Social**
 - [Project Demos](https://www.youtube.com/channel/UC3FaMGXp7QRjzYL3aKRIIBw)
-- [Resume](https://drive.google.com/file/d/1RbzTrl4F0Uce8vnFqqafL594jSUK2nwk/view?usp=sharing)
+
 
 <!--
 **hugo-lau/hugo-lau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+- [Resume](https://drive.google.com/file/d/1RbzTrl4F0Uce8vnFqqafL594jSUK2nwk/view?usp=sharing)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
