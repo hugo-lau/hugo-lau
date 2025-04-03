@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 **About me**
-- Platform Development & Integration
-- Aspiring Professional in Data Analytics
+- System Design
+- Data Analyst/Engineer
 
 🌱 **I’m currently learning**
 - Modern Data Pipelines
